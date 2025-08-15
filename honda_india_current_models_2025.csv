@@ -1,0 +1,5 @@
+model,body_type,fuel_type,hybrid_ev_status,transmission_options,engine_displacement_cc,engine_type,power_bhp,torque_nm,arai_mileage_kmpl_mt,arai_mileage_kmpl_cvt,ex_showroom_price_min_inr,ex_showroom_price_max_inr,boot_space_l,fuel_tank_l,seating_capacity,adas,weight_price,weight_mileage,weight_body_type,weight_fuel_type,weight_transmission,weight_power
+Amaze,Sedan,Petrol,ICe (Petrol),"5MT, CVT",1199,1.2L i-VTEC SOHC,89.0,110,18.6,19.4,814000,1124000,416.0,35.0,5,False,0.4,0.2,0.1,0.1,0.1,0.1
+City,Sedan,Petrol,ICe (Petrol),"6MT, CVT",1498,1.5L i-VTEC DOHC,119.0,145,17.8,18.4,1242000,1669000,506.0,40.0,5,True,0.4,0.2,0.1,0.1,0.1,0.1
+City e:HEV,Sedan,Petrol-Hybrid,Strong Hybrid (e:HEV),e-CVT (2-motor hybrid),1498,1.5L Atkinson-cycle DOHC i-VTEC + 2-motor,124.27632,253,,27.26,1989990,1989990,,40.0,5,True,0.4,0.2,0.1,0.1,0.1,0.1
+Elevate,SUV,Petrol,ICe (Petrol),"6MT, CVT",1498,1.5L i-VTEC DOHC,119.0,145,15.31,16.92,1195000,1693000,458.0,,5,True,0.4,0.2,0.1,0.1,0.1,0.1
